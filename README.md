@@ -1,4 +1,5 @@
 # 腾讯课堂自动签到程序
+<font color="#660000" size="7">本项目已不再维护</font><br />
 本代码的主要目的是学习openCV，本人不对使用本程序造成的任何后果负责！<br>
 请务必使用管理员运行，因为点击操作pyautogui.click需要管理员权限，否则无法签到！<br>
 我顺便打包了exe,需要的可以到我的博客下载https://xiaobai1103.cn/2022/04/22/tengxun_sign/<br>
